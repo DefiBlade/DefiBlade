@@ -4,41 +4,41 @@ Highly skilled and experienced web developer with expertise in React, OpenAI, an
 
 Skills:
 
-1. Blockchain Development:
-   ✔ DEX and Centralized Crypto Exchange \n
-   ✔ Advance Trading Platform (Lending | Swapping | Staking | Futures)
-   ✔ Portfolio Tracking Platform
-   ✔ Web/Mobile Wallet
-   ✔ DeFi Exchange Development
-   ✔ Liquidity Minting Protocols
-   ✔ Impermanent loss, governance tokens
-   ✔ Crypto Collectible Platforms and Non-Fungible Tokens
-   ✔ Custom dApps
-   ✔ Smart Contract Development | ERC20 | ERC777 | ERC223 | ERC721 | ERC1155
-   ✔ IEO | STO | Blockchain Research Writing and Whitepapers
-   ✔ Tokenomics
-   ✔ Token Wallet Development
-   ✔ Cryptocurrency Games
-   ✔ Custom concurrency development
-   ✔ Chain codes
-   ✔ Node-set ups
-   ✔ Multichain and Cosmos development
-   ✔ One-pagerfd
+1. Blockchain Development: <br>
+   ✔ DEX and Centralized Crypto Exchange <br>
+   ✔ Advance Trading Platform (Lending | Swapping | Staking | Futures)<br>
+   ✔ Portfolio Tracking Platform<br>
+   ✔ Web/Mobile Wallet<br>
+   ✔ DeFi Exchange Development<br>
+   ✔ Liquidity Minting Protocols<br>
+   ✔ Impermanent loss, governance tokens<br>
+   ✔ Crypto Collectible Platforms and Non-Fungible Tokens<br>
+   ✔ Custom dApps<br>
+   ✔ Smart Contract Development | ERC20 | ERC777 | ERC223 | ERC721 | ERC1155<br>
+   ✔ IEO | STO | Blockchain Research Writing and Whitepapers<br>
+   ✔ Tokenomics<br>
+   ✔ Token Wallet Development<br>
+   ✔ Cryptocurrency Games<br>
+   ✔ Custom concurrency development<br>
+   ✔ Chain codes<br>
+   ✔ Node-set ups<br>
+   ✔ Multichain and Cosmos development<br>
+   ✔ One-pagerfd<br>
 
-3. Web Development:
-   ✓ Languages: Python, JavaScript, Typescript, SQL
-   ✓ Backend: Node.js Django, Flask, Spring Boot
-   ✓ Frontend: React.js, Vue.js,
-   ✓ CMS (WordPress, Shopify)
-   ✓ Web: CSS 3 (including SASS and Stylus), HTML5
-   ✓ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL.
-   ✓ Tests: Mocha, Chai
-   ✓ Version control: GIT, SVN; GitHub, BitBucket
+3. Web Development:<br>
+   ✓ Languages: Python, JavaScript, Typescript, SQL<br>
+   ✓ Backend: Node.js Django, Flask, Spring Boot<br>
+   ✓ Frontend: React.js, Vue.js,<br>
+   ✓ CMS (WordPress, Shopify)<br>
+   ✓ Web: CSS 3 (including SASS and Stylus), HTML5<br>
+   ✓ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL.<br>
+   ✓ Tests: Mocha, Chai<br>
+   ✓ Version control: GIT, SVN; GitHub, BitBucket<br>
    
-3 . OpenAI:
-  - Extensive experience with OpenAI, including the use of GPT models for natural language processing tasks.
-  - Knowledge of OpenAI APIs and ability to integrate them into web applications.
-  - Understanding of reinforcement learning concepts and implementation.
+3 . OpenAI:<br>
+  - Extensive experience with OpenAI, including the use of GPT models for natural language processing tasks.<br>
+  - Knowledge of OpenAI APIs and ability to integrate them into web applications.<br>
+  - Understanding of reinforcement learning concepts and implementation.<br>
    
 </h3>
 <p>
