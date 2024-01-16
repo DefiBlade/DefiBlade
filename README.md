@@ -1,46 +1,4 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-Highly skilled and experienced web developer with expertise in React, OpenAI, and blockchain technologies. Committed to delivering innovative and efficient solutions that meet client requirements. Passionate about staying up to date with the latest industry trends and continuously enhancing technical skills. Proven ability to work independently and collaborate effectively in team environments.
-
-Skills:
-
-1. Blockchain Development: <br>
-   ✔ DEX and Centralized Crypto Exchange <br>
-   ✔ Advance Trading Platform (Lending | Swapping | Staking | Futures)<br>
-   ✔ Portfolio Tracking Platform<br>
-   ✔ Web/Mobile Wallet<br>
-   ✔ DeFi Exchange Development<br>
-   ✔ Liquidity Minting Protocols<br>
-   ✔ Impermanent loss, governance tokens<br>
-   ✔ Crypto Collectible Platforms and Non-Fungible Tokens<br>
-   ✔ Custom dApps<br>
-   ✔ Smart Contract Development | ERC20 | ERC777 | ERC223 | ERC721 | ERC1155<br>
-   ✔ IEO | STO | Blockchain Research Writing and Whitepapers<br>
-   ✔ Tokenomics<br>
-   ✔ Token Wallet Development<br>
-   ✔ Cryptocurrency Games<br>
-   ✔ Custom concurrency development<br>
-   ✔ Chain codes<br>
-   ✔ Node-set ups<br>
-   ✔ Multichain and Cosmos development<br>
-   ✔ One-pagerfd<br>
-
-3. Web Development:<br>
-   ✓ Languages: Python, JavaScript, Typescript, SQL<br>
-   ✓ Backend: Node.js Django, Flask, Spring Boot<br>
-   ✓ Frontend: React.js, Vue.js,<br>
-   ✓ CMS (WordPress, Shopify)<br>
-   ✓ Web: CSS 3 (including SASS and Stylus), HTML5<br>
-   ✓ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL.<br>
-   ✓ Tests: Mocha, Chai<br>
-   ✓ Version control: GIT, SVN; GitHub, BitBucket<br>
-   
-3 . OpenAI:<br>
-  - Extensive experience with OpenAI, including the use of GPT models for natural language processing tasks.<br>
-  - Knowledge of OpenAI APIs and ability to integrate them into web applications.<br>
-  - Understanding of reinforcement learning concepts and implementation.<br>
-   
-</h3>
 <p>
 <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=flat-square&logo=bitcoin&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
